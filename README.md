@@ -1,1 +1,4 @@
-# Askmeoffers
+Created a Hypothetical Data and used that data to understand business, Customer and Sales Insights. 
+-I have installed the AskmeOffers Chrome Extension from the Chrome Web Store.
+-Cover Letter: In the cover letter, I have detailed my strategy for analyzing user data related to coupon usage from the extension, observed on sites like kapiva.in and beardo.in. I have highlighted factors and analytical methods to enhance the Auto Apply promo code algorithm, and discussed the data analytics skills I would employ to refine the algorithm further based on my user experience and hypothetical insights.
+-Analysis Report: I have prepared a preliminary report suggesting potential areas for data-driven enhancements or insights that I believe could improve the extension's performance and user engagement, based on my assumptions and hypothetical data since I do not have access to the actual database.
